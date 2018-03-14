@@ -10,7 +10,7 @@ My part time job asked for urgent laravel pull request to be ready by tommorrow 
 
 Thanks, 
 Amichay
-***
+
 ________________________________________________________________________________________
 
 
