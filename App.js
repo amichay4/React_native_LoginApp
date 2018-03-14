@@ -2,13 +2,7 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { FBLogin, FBLoginManager } from 'react-native-facebook-login';
 
-class Login extends React.Component {
-  render() {
-    return (
-      <FBLogin />
-    );
-  }
-};
+
 
 export default class App extends React.Component {
   render() {
