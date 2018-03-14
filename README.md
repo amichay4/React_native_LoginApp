@@ -4,7 +4,7 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ________________________________________________________________________________________
 
-### Message  
+### **Message**  
 Hey Isracard. I am deeply sorry about this basic repository which only includes the create-react-native-app injection by now.
 My part time job asked for urgent laravel pull request to be ready by tommorrow (Thursday, March 15 ) . I enjoyed learning `react-native` and I will finalize the task this weekend, in a responsible manner. The task is entirely Characterized (see issues ) and I need more time till sunday (March 18) to submit. 
 
