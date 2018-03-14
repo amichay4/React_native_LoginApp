@@ -2,6 +2,19 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
+________________________________________________________________________________________
+
+### Message
+Hey Isracard. I am deeply sorry about this basic repository which only includes the create-react-native-app injection by now.
+My part time job asked for urgent laravel pull request to be ready by tommorrow. I enjoyed learning `react-native` and I need more time to finilize the task in a responsible manner. The task is entirely Characterized (see issues ) and I need more time till sunday (March 18) to submit. 
+
+..
+Thanks, 
+Amichay
+..
+________________________________________________________________________________________
+
+
 ## Table of Contents
 
 * [Updating to New Releases](#updating-to-new-releases)
