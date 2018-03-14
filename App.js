@@ -1,8 +1,5 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { FBLogin, FBLoginManager } from 'react-native-facebook-login';
-
-
 
 export default class App extends React.Component {
   render() {
