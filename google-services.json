@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "460025086304",
+    "firebase_url": "https://amichay-project.firebaseio.com",
+    "project_id": "amichay-project",
+    "storage_bucket": "amichay-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460025086304:android:b41a65f704f977d7",
+        "android_client_info": {
+          "package_name": "com.amichaycompany.amichayproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460025086304-p431ud7vij4524gvvrq2oeemr58rumd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amichaycompany.amichayproject",
+            "certificate_hash": "8253f61187da21679ae7dd491b97350026539c98"
+          }
+        },
+        {
+          "client_id": "460025086304-et2u9cdp6i8rlfqbr45muqkrqiikfdcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACq_4XsYntzEZUOZl3vnhmsm-h3CzFTR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460025086304-et2u9cdp6i8rlfqbr45muqkrqiikfdcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
